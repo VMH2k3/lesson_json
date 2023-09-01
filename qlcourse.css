@@ -1,0 +1,23 @@
+.infor {
+    display: inline-block;
+    ;
+    width: 100px;
+}
+
+.write {
+    height: 30px;
+}
+
+#name {
+    width: 50%;
+    height: auto;
+}
+
+#description {
+    width: 50%;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+}

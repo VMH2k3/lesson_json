@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "name": "Lập Trình JavaScript Nâng Cao",
+      "description": "Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ...",
+      "id": 1
+    },
+    {
+      "name": "Xây Dựng Website với ReactJS",
+      "description": "Khóa học ReactJS từ cơ bản, bạn có thể tự tin đi xin việc khi nắm chắc các kiến thức được chia sẻ trong khóa học này. cố gắng lên các bạn !",
+      "id": 2
+    }
+  ]
+}
